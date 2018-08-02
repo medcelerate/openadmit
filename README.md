@@ -1,1 +1,1 @@
-# openadmit
+# Open Admit
